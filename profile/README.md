@@ -1,4 +1,4 @@
-## Hi there 👋
+## About AuroLeap
 
 A fledgling organization with a passion for automation.
 
