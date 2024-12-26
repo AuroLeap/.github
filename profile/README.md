@@ -1,12 +1,5 @@
 ## Hi there 👋
 
-<!--
+A fledgling organization with a passion for automation.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Currently, the project of focus is Gilbert, a full source-available robotic software deployment, such that it -as a software package- could be deployed to various robot frames which would operate as whole-house service robots.  Ideally to take on household or business chores, cleanup, event decoration, cooking, laundry, and the plethora of other daily tasks that consume our time and the time of those we love.
